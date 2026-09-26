@@ -2,6 +2,8 @@
 
 An English-first, bilingual guide to New York City's hidden cocktail bars. It combines a playful illustrated borough map, independently verified venue details, official-menu links, and a searchable guide to 100 classic cocktails.
 
+Live site: https://yeyekuailai.github.io/speakeasys-secret/
+
 ## Features
 
 - Illustrated NYC map with mouse-wheel zoom and drag navigation
